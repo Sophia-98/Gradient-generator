@@ -1,2 +1,2 @@
-# gradient-generator
-Practice project to become a web project soon.
+# Gradient-generator
+Practice project to become a full fledged web project soon.
